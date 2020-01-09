@@ -1249,6 +1249,11 @@ section.lazy-placeholder:after {
 .cid-rN06ZREo7O .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-rN4M3o2s58 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-rJMHqx3njM .navbar {
   background: #ffffff;
   transition: none;
@@ -1717,4 +1722,9 @@ section.lazy-placeholder:after {
   .cid-rN0ltgZARz .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rN4M3o2s58 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
